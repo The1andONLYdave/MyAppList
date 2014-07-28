@@ -1,3 +1,8 @@
+MyAppList for show-my-apps.de
+rewrite for eclipse
+
+Forked from:
+
 My App List
 ========================
 
